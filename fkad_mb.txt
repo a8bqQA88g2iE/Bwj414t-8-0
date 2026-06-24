@@ -1,7 +1,10 @@
 ! Description:fk_ad
 ! Expires:7 days
 ! Title:fkad_mb
-! Version:260617
+! Version:260624
+
+ltn.com.tw##.boxText.boxTitle.top
+ltn.com.tw###marqueeHeader
 technews.tw##.coffee-btn-wrapper
 chinatimes.com###donate-form-container
 chinatimes.com###proticoFrameSpan

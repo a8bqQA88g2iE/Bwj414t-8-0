@@ -1,5 +1,5 @@
 ! Description:fk_ad
-! Expires:7 days
+! Expires:3 days
 ! Title:fkad_mb
 ! Version:260624
 
@@ -96,3 +96,4 @@ lurl.cc###Modal_over18years
 lurl.cc##.show.fade.modal-backdrop
 lurl.cc###AdAAnchor
 lurl.cc##body:style(overflow: scroll !important;)
+www.4gamers.com.tw##button[aria-label="留言回覆"]:upward(3)

@@ -98,3 +98,4 @@ lurl.cc###AdAAnchor
 lurl.cc##body:style(overflow: scroll !important;)
 4gamers.com.tw##button[aria-label="留言回覆"]:upward(3)
 www.chinatimes.com##.google-preferred-sources
+www.nownews.com##.visible.tool-box-sticky

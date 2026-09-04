@@ -3,6 +3,7 @@
 ! Title:fkad_mb
 ! Version:260624
 
+
 ltn.com.tw##.boxText.boxTitle.top
 ltn.com.tw###marqueeHeader
 technews.tw##.coffee-btn-wrapper
@@ -71,7 +72,6 @@ today.line.me##.reposted.ltcp-link
 today.line.me##span[class^="appPromo-banner-title"]:upward(1)
 yahoo.com###module-article-challenge
 yahoo.com##.p-5.rounded-lg.justify-between.items-center.flex.text-batcave.mb-module-gap.bg-marshmallow
-yahoo.com##a[aria-label="��㯄�𧘹pp"]
 yahoo.com###promote-banner
 yahoo.com##.mb-module-gap-lg
 udn.com##.breaking-news__wrapper
@@ -97,5 +97,12 @@ lurl.cc##.show.fade.modal-backdrop
 lurl.cc###AdAAnchor
 lurl.cc##body:style(overflow: scroll !important;)
 4gamers.com.tw##button[aria-label="留言回覆"]:upward(3)
-www.chinatimes.com##.google-preferred-sources
-www.nownews.com##.visible.tool-box-sticky
+nextapple.com##.article-body .post-meta
+nextapple.com##.scrollTool
+nextapple.com##.subshadow.side-share
+nextapple.com###marquee
+nextapple.com##.post-footer > div:nth-of-type(1)
+www.mirrormedia.mg###adult-only-warning
+www.mirrormedia.mg##div[class^="promote-topic-swiper"]
+www.mirrormedia.mg##div[class^="article-info__SocialMediaAndDonateLink"]
+www.mirrormedia.mg##div[class^="header__TopicsAndFlashNews"]

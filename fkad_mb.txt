@@ -1,8 +1,7 @@
 ! Description:fk_ad
 ! Expires:3 days
 ! Title:fkad_mb
-! Version:260624
-
+! Version:260905
 
 ltn.com.tw##.boxText.boxTitle.top
 ltn.com.tw###marqueeHeader
@@ -106,3 +105,4 @@ www.mirrormedia.mg###adult-only-warning
 www.mirrormedia.mg##div[class^="promote-topic-swiper"]
 www.mirrormedia.mg##div[class^="article-info__SocialMediaAndDonateLink"]
 www.mirrormedia.mg##div[class^="header__TopicsAndFlashNews"]
+www.mirrormedia.mg##div[class^="article-right-arrow"]

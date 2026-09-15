@@ -1,7 +1,7 @@
 ! Description:fk_ad
 ! Expires:3 days
 ! Title:fkad_mb
-! Version:260905
+! Version:260624
 
 ltn.com.tw##.boxText.boxTitle.top
 ltn.com.tw###marqueeHeader
@@ -106,3 +106,10 @@ www.mirrormedia.mg##div[class^="promote-topic-swiper"]
 www.mirrormedia.mg##div[class^="article-info__SocialMediaAndDonateLink"]
 www.mirrormedia.mg##div[class^="header__TopicsAndFlashNews"]
 www.mirrormedia.mg##div[class^="article-right-arrow"]
+tvbs.com.tw###news_m_read_uptop:upward(2)
+tvbs.com.tw##div[id^="news_m_read_d"]:upward(2)
+tvbs.com.tw##div[data-section="top-ads"]
+tvbs.com.tw##div.inline-mobile-ad-wrapper
+tvbs.com.tw##aside
+tvbs.com.tw##div[id^="taboola"]:upward(3)
+tvbs.com.tw##a[target="_blank"]:upward(1)

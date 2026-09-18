@@ -1,19 +1,32 @@
 ! Description:fk_ad
 ! Expires:3 days
 ! Title:fkad_mb
-! Version:260624
+! Version:260919
 
-ltn.com.tw##.boxText.boxTitle.top
-ltn.com.tw###marqueeHeader
-technews.tw##.coffee-btn-wrapper
+4gamers.com.tw##button[aria-label="留言回覆"]:upward(3)
 chinatimes.com###donate-form-container
 chinatimes.com###proticoFrameSpan
 chinatimes.com##.article-function
 chinatimes.com##.donate-form-container
 chinatimes.com##.google-news-promote
+cna.com.tw###jsAppInfo
+cna.com.tw##.appDownload
+cna.com.tw##.articleTopBtnBox
+cna.com.tw##.webshow.instantOpen.instant
+ebc.net.tw###_popIn_recommend_above
+ebc.net.tw###_popIn_recommend_below
+ebc.net.tw##.article_controls
+ebc.net.tw##.article_switch
+ebc.net.tw##.bottom_fixbox
+ebc.net.tw##.latest_news_bar
+ebc.net.tw##.mobile_vote
+ebc.net.tw##.mobile_vote
+ebc.net.tw##.player_wrap
 ettoday.net###et_sticky
 ettoday.net###manual_links.story
+ettoday.net##.clearfix.etvideo_collect_2
 ettoday.net##.clearfix.ticker_1
+ettoday.net##.clip-video
 ettoday.net##.et_165dashboard
 ettoday.net##.et_epaper_box_m
 ettoday.net##.font_size_switch
@@ -28,18 +41,24 @@ ftvnews.com.tw###contentarea > strong
 ftvnews.com.tw##.mb
 ftvnews.com.tw##.swiper-wrapper.marquee-carousel
 gamer.com.tw###BH-slave
+gnn.gamer.com.tw##.fixed-right
+gnn.gamer.com.tw##.open-app
+ltn.com.tw###marqueeHeader
+ltn.com.tw##.boxText.boxTitle.top
 ltn.com.tw##.subs_eDM
-ebc.net.tw###_popIn_recommend_above
-ebc.net.tw###_popIn_recommend_below
-ebc.net.tw##.article_controls
-ebc.net.tw##.bottom_fixbox
-ebc.net.tw##.latest_news_bar
-ebc.net.tw##.mobile_vote
-ebc.net.tw##.player_wrap
-tvbs.com.tw##.good_box
-tvbs.com.tw##.guangxuan
+lurl.cc###AdAAnchor
+lurl.cc###Modal_over18years
+lurl.cc##.show.fade.modal-backdrop
+lurl.cc##body:style(overflow: scroll !important;)
+m.eprice.com.tw##.btn-back2top
+m.eprice.com.tw##.btn-floatReply
 newtalk.tw##.is-fixed.news_marquee
 newtalk.tw##.top-youtube
+nextapple.com###marquee
+nextapple.com##.article-body .post-meta
+nextapple.com##.post-footer > div:nth-of-type(1)
+nextapple.com##.scrollTool
+nextapple.com##.subshadow.side-share
 nownews.com##.breakingNews
 nownews.com##.google-news
 nownews.com##.my-1.more-news
@@ -65,14 +84,20 @@ taisounds.com##.cpt-popup-div-gpt-ad-1698731212970-0
 taisounds.com##.cpt-popup-overlay
 taisounds.com##.floating-buttons
 taisounds.com##.news-author
+technews.tw##.coffee-btn-wrapper
 today.line.me##.listingEndOfContent
 today.line.me##.midAd-title:upward(1)
 today.line.me##.reposted.ltcp-link
 today.line.me##span[class^="appPromo-banner-title"]:upward(1)
-yahoo.com###module-article-challenge
-yahoo.com##.p-5.rounded-lg.justify-between.items-center.flex.text-batcave.mb-module-gap.bg-marshmallow
-yahoo.com###promote-banner
-yahoo.com##.mb-module-gap-lg
+tvbs.com.tw###news_m_read_uptop:upward(2)
+tvbs.com.tw##.good_box
+tvbs.com.tw##.guangxuan
+tvbs.com.tw##a[target="_blank"]:upward(1)
+tvbs.com.tw##aside
+tvbs.com.tw##div.inline-mobile-ad-wrapper
+tvbs.com.tw##div[data-section="top-ads"]
+tvbs.com.tw##div[id^="news_m_read_d"]:upward(2)
+tvbs.com.tw##div[id^="taboola"]:upward(3)
 udn.com##.breaking-news__wrapper
 udn.com##.story-social
 udn.com##.udn-box
@@ -82,34 +107,19 @@ upmedia.mg##.clearfix.news-flash
 upmedia.mg##.cpt-popup-div-gpt-ad-1688725259655-0
 upmedia.mg##.foot-editor
 upmedia.mg##.rss_close
-cna.com.tw##.articleTopBtnBox
-cna.com.tw##.appDownload
-cna.com.tw##.webshow.instantOpen.instant
-cna.com.tw###jsAppInfo
-m.eprice.com.tw##.btn-floatReply
-m.eprice.com.tw##.btn-back2top
-gnn.gamer.com.tw##.fixed-right
-gnn.gamer.com.tw##.open-app
-yahoo.com##div[id^="share-button-group"]
-lurl.cc###Modal_over18years
-lurl.cc##.show.fade.modal-backdrop
-lurl.cc###AdAAnchor
-lurl.cc##body:style(overflow: scroll !important;)
-4gamers.com.tw##button[aria-label="留言回覆"]:upward(3)
-nextapple.com##.article-body .post-meta
-nextapple.com##.scrollTool
-nextapple.com##.subshadow.side-share
-nextapple.com###marquee
-nextapple.com##.post-footer > div:nth-of-type(1)
 www.mirrormedia.mg###adult-only-warning
-www.mirrormedia.mg##div[class^="promote-topic-swiper"]
 www.mirrormedia.mg##div[class^="article-info__SocialMediaAndDonateLink"]
-www.mirrormedia.mg##div[class^="header__TopicsAndFlashNews"]
 www.mirrormedia.mg##div[class^="article-right-arrow"]
-tvbs.com.tw###news_m_read_uptop:upward(2)
-tvbs.com.tw##div[id^="news_m_read_d"]:upward(2)
-tvbs.com.tw##div[data-section="top-ads"]
-tvbs.com.tw##div.inline-mobile-ad-wrapper
-tvbs.com.tw##aside
-tvbs.com.tw##div[id^="taboola"]:upward(3)
-tvbs.com.tw##a[target="_blank"]:upward(1)
+www.mirrormedia.mg##div[class^="header__TopicsAndFlashNews"]
+www.mirrormedia.mg##div[class^="promote-topic-swiper"]
+yahoo.com###module-article-challenge
+yahoo.com###promote-banner
+yahoo.com##.mb-module-gap-lg
+yahoo.com##.p-5.rounded-lg.justify-between.items-center.flex.text-batcave.mb-module-gap.bg-marshmallow
+yahoo.com##div[id^="share-button-group"]
+
+
+
+
+
+

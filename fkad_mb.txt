@@ -1,7 +1,7 @@
 ! Description:fk_ad
 ! Expires:3 days
 ! Title:fkad_mb
-! Version:260919
+! Version:260924
 
 4gamers.com.tw##button[aria-label="留言回覆"]:upward(3)
 chinatimes.com###donate-form-container
@@ -117,7 +117,13 @@ yahoo.com###promote-banner
 yahoo.com##.mb-module-gap-lg
 yahoo.com##.p-5.rounded-lg.justify-between.items-center.flex.text-batcave.mb-module-gap.bg-marshmallow
 yahoo.com##div[id^="share-button-group"]
-
+www.mnews.tw##section[class^="external_ads"]
+www.mnews.tw##div[class^="swiper_wrapper"]
+www.mnews.tw##div[class^="ad-tv-admin-mobile-banner_banner"]
+www.mnews.tw##section[class^="external_socialAndRelatedWrapper"]
+www.mnews.tw##div[class^="aside_gptAdContainer"]
+www.mnews.tw##.post__social-media-share
+www.mirrordaily.news##.z-story-share-bar
 
 
 

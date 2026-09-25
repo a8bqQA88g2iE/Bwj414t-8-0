@@ -124,7 +124,8 @@ www.mnews.tw##section[class^="external_socialAndRelatedWrapper"]
 www.mnews.tw##div[class^="aside_gptAdContainer"]
 www.mnews.tw##.post__social-media-share
 www.mirrordaily.news##.z-story-share-bar
-
+tvbs.com.tw##a[href="https://app.tvbs.com.tw/news/news_articleend.html"]:upward(2)
+tvbs.com.tw##.lg\:bottom-16.lg\:right-8.z-50.bottom-34.right-8.fixed
 
 
 
